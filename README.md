@@ -45,7 +45,7 @@ Humidity: 18
 
 ### Todo
 
- - Process cities using gorutines
+ - [x] Process cities using gorutines
  - Travis CI
  - Testing
 
